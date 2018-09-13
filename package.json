@@ -1,0 +1,33 @@
+{
+  "name": "git-messages-format",
+  "version": "1.0.0",
+  "description": "test of commit messages",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbelchin/git-messages-format.git"
+  },
+  "keywords": [
+    "git",
+    "messages",
+    "commit",
+    "format"
+  ],
+  "author": "Moises Belchin <moisesbelchin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbelchin/git-messages-format/issues"
+  },
+  "homepage": "https://github.com/mbelchin/git-messages-format#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^1.0.0-rc.14",
+    "validate-commit": "^3.4.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "validate-commit-msg"
+    }
+  }
+}
