@@ -2,6 +2,7 @@
 > Sin configuración específica de GIT, compartir el mismo formato de mensajes de GIT entre todo el equipo de desarrolladores
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
 
 *Lee esta información en otros idiomas: [English](README.md), [Español](README.es.md).*
 
@@ -39,7 +40,7 @@ _Más información, por favor, visita [https://moisesbm.wordpress.com](https://m
 
 ## Meta
 
-Moisés Belchín – [@moises_b_m](https://twitter.com/moises_b_m) – moisesbelchin@gmail.com
+Moisés Belchín – [@moises_b_m](https://twitter.com/moises_b_m) – [https://moisesbm.wordpress.com](https://moisesbm.wordpress.com)
 
 Distribuido bajo lincencia MIT. Echa un vistazo a ``LICENSE`` para más información.
 

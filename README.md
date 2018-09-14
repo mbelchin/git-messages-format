@@ -2,6 +2,8 @@
 > shareable and zero-conf git Messages format to be used across a dev team
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
+
 
 *Read this in other languages: [English](README.md), [Español](README.es.md).*
 
@@ -39,7 +41,7 @@ _For more examples and usage, please refer to [https://moisesbm.wordpress.com](h
 
 ## Meta
 
-Moisés Belchín – [@moises_b_m](https://twitter.com/moises_b_m) – moisesbelchin@gmail.com
+Moisés Belchín – [@moises_b_m](https://twitter.com/moises_b_m) – [https://moisesbm.wordpress.com](https://moisesbm.wordpress.com)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
