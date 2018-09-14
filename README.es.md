@@ -3,6 +3,8 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
+*Lee esta información en otros idiomas: [English](README.md), [Español](README.es.md).*
+
 Sin necesidad de configuración de GIT, tener un formato común de mensajes de GIT commit para poder utilizarlo por todo el equipo de desarrollo utilizando hooks nativos de GIT
 
 ![](example.gif)

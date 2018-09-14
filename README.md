@@ -3,6 +3,8 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
+*Read this in other languages: [English](README.md), [Español](README.es.md).*
+
 Shareable and zero-conf git Messages format to be used across a dev team using
 native GIT hooks
 
