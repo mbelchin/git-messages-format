@@ -1,5 +1,5 @@
 # Compartir el formato de mensajes de GIT commit
-> Sin configuración específica de GIT, compartir el mismo format de mensajes de GIT entre todo el equipo de desarrolladores
+> Sin configuración específica de GIT, compartir el mismo formato de mensajes de GIT entre todo el equipo de desarrolladores
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
