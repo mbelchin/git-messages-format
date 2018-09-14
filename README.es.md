@@ -3,6 +3,7 @@
 
 ![GitHub](https://img.shields.io/github/license/mbelchin/git-messages-format.svg)
 ![GitHub release](https://img.shields.io/github/release/mbelchin/git-messages-format.svg)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/mbelchin/git-messages-format.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmbelchin%2Fgit-messages-format)
 
 
 *Lee esta información en otros idiomas: [English](README.md), [Español](README.es.md).*
