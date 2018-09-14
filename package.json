@@ -1,10 +1,9 @@
 {
   "name": "git-messages-format",
   "version": "1.0.0",
-  "description": "test of commit messages",
+  "description": "test for getting a shareable commit messages format across a dev team",
   "main": "",
   "scripts": {
-    "commitmsg": "validate-commit-msg"
   },
   "repository": {
     "type": "git",
@@ -24,12 +23,14 @@
   "homepage": "https://github.com/mbelchin/git-messages-format#readme",
   "dependencies": {},
   "devDependencies": {
-    "husky": "^1.0.0-rc.14",
-    "validate-commit": "^3.4.0"
+    "@commitlint/cli": "^7.1.2",
+    "@commitlint/config-conventional": "^7.1.2",
+    "husky": "^1.0.0-rc.14"
   },
   "husky": {
     "hooks": {
-      "commit-msg": "validate-commit-msg"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "post-merge": "npm install"
     }
   }
 }
