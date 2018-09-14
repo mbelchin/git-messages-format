@@ -1,7 +1,7 @@
 # Shareable GIT commit messages format
 > shareable and zero-conf git Messages format to be used across a dev team
 
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![GitHub](https://img.shields.io/github/license/mbelchin/git-messages-format.svg)
 ![GitHub release](https://img.shields.io/github/release/mbelchin/git-messages-format.svg)
 
 
