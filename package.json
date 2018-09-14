@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "test for getting a shareable commit messages format across a dev team",
   "main": "",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mbelchin/git-messages-format.git"
