@@ -1,8 +1,11 @@
-# Compartir el formato de mensajes de GIT commit [![Twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmbelchin%2Fgit-messages-format&hashtags=git,hooks,developers,commit,format)
+# Compartir el formato de mensajes de GIT commit
 > Sin configuración específica de GIT, compartir el mismo formato de mensajes de GIT entre todo el equipo de desarrolladores
 
 ![GitHub](https://img.shields.io/github/license/mbelchin/git-messages-format.svg)
 ![GitHub release](https://img.shields.io/github/release/mbelchin/git-messages-format.svg)
+
+
+[![Twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmbelchin%2Fgit-messages-format&hashtags=git,hooks,developers,commit,format)
 
 
 *Lee esta información en otros idiomas: [English](README.md), [Español](README.es.md).*
