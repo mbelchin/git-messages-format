@@ -2,7 +2,8 @@
 > shareable and zero-conf git Messages format to be used across a dev team
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
+![GitHub release](https://img.shields.io/github/release/mbelchin/git-messages-format.svg)
+
 
 
 *Read this in other languages: [English](README.md), [Español](README.es.md).*

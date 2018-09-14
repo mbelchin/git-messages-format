@@ -2,7 +2,8 @@
 > Sin configuración específica de GIT, compartir el mismo formato de mensajes de GIT entre todo el equipo de desarrolladores
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
+![GitHub release](https://img.shields.io/github/release/mbelchin/git-messages-format.svg)
+
 
 *Lee esta información en otros idiomas: [English](README.md), [Español](README.es.md).*
 
