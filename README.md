@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 Shareable and zero-conf git Messages format to be used across a dev team using
-native git hooks
+native GIT hooks
 
 ![](example.gif)
 
@@ -19,9 +19,10 @@ npm install
 ## Usage example
 
 NPM will install `husky` and `commitlint` npm packages. They are responsible for
-trigger installing custom git hooks.
+installing and triggering custom GIT hooks.
 
-In package.json file you will find the configuration for husky:
+Inside the `package.json` file you will find the configuration for husky.
+For this case we are using `commit-msg` and `post-merge` GIT hooks.
 
 ```
 "husky": {
@@ -32,7 +33,7 @@ In package.json file you will find the configuration for husky:
 }
 ```
 
-_For more examples and usage, please refer to [Blog][moisesbm.wordpress.com]._
+_For more examples and usage, please refer to [https://moisesbm.wordpress.com](https://moisesbm.wordpress.com)._
 
 ## Meta
 
@@ -40,12 +41,12 @@ Moisés Belchín – [@moises_b_m](https://twitter.com/moises_b_m) – moisesbel
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/mbelchin/git-messages-format](https://github.com/mbelchin/)
+[https://github.com/mbelchin/](https://github.com/mbelchin/)
 
 ## Contributing
 
 1. Fork it (<https://github.com/mbelchin/git-messages-format/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
+3. Commit your changes (`git commit -am '<type>(scope): add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
