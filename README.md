@@ -43,9 +43,9 @@ _For more examples and usage, please refer to [https://moisesbm.wordpress.com/20
 
 ## Author
 
-[Moisés Belchín](https://moisesbm.wordpress.com)\  
-[@moises_b_m](https://twitter.com/moises_b_m)\  
-[https://github.com/mbelchin/](https://github.com/mbelchin/)\  
+[Moisés Belchín](https://moisesbm.wordpress.com)  
+[@moises_b_m](https://twitter.com/moises_b_m)  
+[https://github.com/mbelchin/](https://github.com/mbelchin/)  
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
