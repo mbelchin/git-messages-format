@@ -40,15 +40,28 @@ En este caso de uso, utilzamos los hooks de GIT `commit-msg` y `post-merge`.
 }
 ```
 
-_Más información, por favor, visita [https://moisesbm.wordpress.com](https://moisesbm.wordpress.com)._
+_Más información, por favor, visita [https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/](https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/)._
 
-## Meta
+## Author
 
-Moisés Belchín – [@moises_b_m](https://twitter.com/moises_b_m) – [https://moisesbm.wordpress.com](https://moisesbm.wordpress.com)
+[Moisés Belchín](https://moisesbm.wordpress.com)
+[@moises_b_m](https://twitter.com/moises_b_m)
+[https://github.com/mbelchin/](https://github.com/mbelchin/)
 
 Distribuido bajo lincencia MIT. Echa un vistazo a ``LICENSE`` para más información.
 
 [https://github.com/mbelchin/](https://github.com/mbelchin/)
+
+## Documentación
+
+Para obtener una información más detallada acerca de este paquete, por favor, dirígete a :
+[https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/](https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/)
+
+## Discusión
+
+Este proyecto fue creado para encontrar una manera simple de compartir el mismo estilo de mensajes de GIT con todo un equipo de desarrolladores.
+
+Si consideras que algunas cosas podrían mejorarse o si conoces alguna otra herramienta más sencilla o con una configuración más fácil, por favor, abre un hilo de debate para que todos nos podamos beneficiar de todas las mejoras que surjan.
 
 ## Contribuir
 

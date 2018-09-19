@@ -39,15 +39,26 @@ For this case we are using `commit-msg` and `post-merge` GIT hooks.
 }
 ```
 
-_For more examples and usage, please refer to [https://moisesbm.wordpress.com](https://moisesbm.wordpress.com)._
+_For more examples and usage, please refer to [https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/](https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/)._
 
-## Meta
+## Author
 
-Moisés Belchín – [@moises_b_m](https://twitter.com/moises_b_m) – [https://moisesbm.wordpress.com](https://moisesbm.wordpress.com)
+[Moisés Belchín](https://moisesbm.wordpress.com)
+[@moises_b_m](https://twitter.com/moises_b_m)
+[https://github.com/mbelchin/](https://github.com/mbelchin/)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/mbelchin/](https://github.com/mbelchin/)
+## Documentation
+
+For a detailed explanation, please refer to:
+[https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/](https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/)
+
+## Discussion
+
+This project was created to find a simple way to share same GIT commit messages format across a whole developers team.
+
+If you consider some things could be improved or you know another simpler, easier configurable tools, please open a discussion thread so all of us could benefit from those improvements.
 
 ## Contributing
 
