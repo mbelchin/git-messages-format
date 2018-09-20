@@ -42,7 +42,7 @@ En este caso de uso, utilzamos los hooks de GIT `commit-msg` y `post-merge`.
 
 _Más información, por favor, visita [https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/](https://moisesbm.wordpress.com/2018/09/15/git-commit-messages-shareable-format/)._
 
-## Author
+## Autor
 
 [Moisés Belchín](https://moisesbm.wordpress.com)  
 [@moises_b_m](https://twitter.com/moises_b_m)  
