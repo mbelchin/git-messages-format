@@ -22,9 +22,9 @@
   "homepage": "https://github.com/mbelchin/git-messages-format#readme",
   "dependencies": {},
   "devDependencies": {
-    "@commitlint/cli": "^7.1.2",
-    "@commitlint/config-conventional": "^7.1.2",
-    "husky": "^1.0.0-rc.14"
+    "@commitlint/cli": "^8.0.0",
+    "@commitlint/config-conventional": "^8.0.0",
+    "husky": "^3.0.0"
   },
   "husky": {
     "hooks": {
